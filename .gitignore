@@ -1,0 +1,8 @@
+wrangler.jsonc
+.env
+.dev.vars
+data.json
+*.token
+.cloudflare-token-key
+.wrangler/
+node_modules/

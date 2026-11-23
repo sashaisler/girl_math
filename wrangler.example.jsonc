@@ -1,0 +1,9 @@
+{
+  "name": "girl-math",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": true,
+  "preview_urls": false,
+  "d1_databases": [{ "binding": "DB", "database_name": "girl-math", "database_id": "REPLACE_WITH_DATABASE_ID", "migrations_dir": "migrations" }],
+  "triggers": { "crons": ["0 */6 * * *"] }
+}
